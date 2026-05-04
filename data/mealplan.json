@@ -25,17 +25,12 @@
     "notes": ""
   },
   "2025-11-07": {
-    "lunch": {
-      "id": 649419,
-      "title": "Leche Flan (Caramel Flan)",
-      "addedAt": "2025-11-06T16:00:05.766Z"
-    },
+    "notes": "",
     "dinner": {
-      "id": 1098351,
-      "title": "Olive Tapenade Flatbread",
-      "addedAt": "2025-11-06T16:00:23.878Z"
-    },
-    "notes": ""
+      "id": 648742,
+      "title": "Kappa Maki",
+      "addedAt": "2025-11-07T05:33:50.933Z"
+    }
   },
   "2025-11-19": {
     "breakfast": {
@@ -48,11 +43,11 @@
       "title": "Classic scones",
       "addedAt": "2025-11-06T16:17:59.901Z"
     },
-    "notes": "fatin punya\n",
+    "notes": "",
     "lunch": {
-      "id": 1098351,
-      "title": "Olive Tapenade Flatbread",
-      "addedAt": "2025-11-06T16:19:20.026Z"
+      "id": 1956494,
+      "title": "Honey Bee",
+      "addedAt": "2025-11-07T07:38:40.881Z"
     }
   },
   "2025-11-11": {
@@ -61,6 +56,35 @@
       "title": "Rice Honey Bread",
       "addedAt": "2025-11-06T18:51:49.055Z"
     },
-    "notes": ""
+    "notes": "dad's birthday!"
+  },
+  "2025-11-06": {
+    "lunch": {
+      "id": 661741,
+      "title": "Strawberry and Chocolate Chip Panini",
+      "addedAt": "2025-11-07T07:37:31.098Z"
+    },
+    "notes": "dont forget to buy strawberries!"
+  },
+  "2025-12-04": {
+    "dinner": {
+      "id": 649419,
+      "title": "Leche Flan (Caramel Flan)",
+      "addedAt": "2025-11-27T12:26:37.095Z"
+    },
+    "notes": "birthday abah",
+    "lunch": {
+      "id": 648742,
+      "title": "Kappa Maki",
+      "addedAt": "2025-11-27T14:19:45.644Z"
+    }
+  },
+  "2026-01-21": {
+    "breakfast": {
+      "id": 631852,
+      "title": "2-hour no knead bread",
+      "addedAt": "2026-01-15T14:10:07.464Z"
+    },
+    "notes": "birthday hhsjhj"
   }
 }

@@ -531,7 +531,7 @@ function loadMealPlan() {
 }
 
 function saveMealPlan() {
-  // ADD THESE DEBUG LINES:
+  //  DEBUG LINES:
   console.log('💾 saveMealPlan called');
   console.log('mealPlan object:', mealPlan);
   console.log('mealPlan keys:', Object.keys(mealPlan));
